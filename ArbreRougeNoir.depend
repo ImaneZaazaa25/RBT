@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764062175 source:c:\users\pc\documents\ilisi2\cppavancee\arbrerougenoir\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
